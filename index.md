@@ -13,11 +13,11 @@ I use this website to share my past research and to highlight trends and things 
 
 ---
 
-## Selected Research Area
+## Selected Research Area & Publications 
 
 ---
 
-### Tailored Design to Increase User Engagement
+### Tailoring Design to Increase User Engagement
 <b>Minhyang (Mia) Suh </b>& Gary Hsieh (2016). Designing for Future Behaviors: The Effect of Temporal Distance on Planned Behaviors, CHI 2016 <a href="http://students.washington.edu/miasuh/attachment/chi2016.pdf"><font color = "#ff7b00">[PDF]</font></a><br><br>
 
 Shih-Wen Huang,<b> Minhyang (Mia) Suh</b>, Benjamin Mako Hill, & Gary Hsieh (2015). How Activists are Both Born and Made: An Analysis of Users on Change.org, CHI 2015 <a href="http://students.washington.edu/miasuh/attachment/chi2015.pdf"><font color = "#ff7b00">[PDF]</font></a><br><br>
@@ -25,7 +25,7 @@ Shih-Wen Huang,<b> Minhyang (Mia) Suh</b>, Benjamin Mako Hill, & Gary Hsieh (201
 
 ---
 
-###  Nurturing Collaboration and Human-Connection through Technology   
+###  Nurturing Collaboration and Social Connection     
 
 Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha Sien, Janet Ng, Mark Zachry, and Juho Kim (2019). Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying Collaborative Dynamic Queries, CSCW 2019, 106, 24. <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
 
@@ -39,10 +39,12 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 ---
 ### Making Information More Accessible and Useful 
 
-<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018<a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [PDF]</font></a><br><br>
+<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018 <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [PDF]</font></a><br><br>
 
 
 
+---
+## Selected Research Area & Publications 
 
 
 
@@ -60,5 +62,5 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 
 
 ---
-<p style="font-size:11px;color:RGB(224,224,224)">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px;color:RGB(224,224,224)">Page template forked from <a stype="color::RGB(224,224,224)";href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
