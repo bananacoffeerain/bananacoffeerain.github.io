@@ -62,5 +62,5 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 
 
 ---
-<p style="font-size:11px;color:RGB(224,224,224)">Page template forked from <a style="color::RGB(224,224,224)";href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px;color:RGB(224,224,224)">Page template forked from <a style="color::RGB(224,224,224);href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
