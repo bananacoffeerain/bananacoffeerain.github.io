@@ -6,14 +6,14 @@ I am a mixed methods researcher and my research interests are broad and include 
 
 Prior to Google, I earned a PhD from the department of Human Centered Design and Engineering in the University of Washington, where I explored how time could be leveraged as a base of a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in Communication and a BA in English Language and Literature both from Seoul National University in Korea. 
 <br><br>
-I use this website to share my past research and to highlight things and thoughts that I currently find interesting. </p><br><br><br>
+I use this website to share my past research and to highlight things and thoughts that I currently find interesting. </p><br><br><br><br><br><br>
 
 
 
 
 ---
 
-## Selected Research Areas & Publications on Human-Computer Interaction 
+## Selected Research Areas & Publications  
 
 ---
 
@@ -39,7 +39,7 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 ---
 ### Making Information More Accessible and Useful 
 
-<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018 <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [PDF]</font></a><br><br><br>
+<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018 <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [PDF]</font></a><br><br><br><br><br><br>
 
 
 
@@ -49,8 +49,7 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 - [Food blogging](http://example.com/)
 - [Traveling](http://example.com/)
 
-
----
+<br><br><br>
 
 
 
