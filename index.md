@@ -47,12 +47,16 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 ## Me, Now 
 - [Reading](http://example.com/)
 - [Food blogging](http://example.com/)
-
----
-
-
+- [Traveling](http://example.com/)
 
 
 ---
-<p style="font-size:11px;color:rgb(224,224,224)">Page template forked from <a href="https://github.com/evanca/quick-portfolio" style="color: rgb(224,224,224)">evanca at GitHub</a></p>
+
+
+
+
+---
+<p style="font-size:11px;color:rgb(224,224,224)">
+Updated May, 2020 <br>
+Page template forked from <a href="https://github.com/evanca/quick-portfolio" style="color: rgb(224,224,224)">evanca @GitHub</a></p>
 <!-- Remove above link if you don't want to attibute -->
