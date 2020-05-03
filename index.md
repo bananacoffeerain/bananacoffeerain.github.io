@@ -6,7 +6,7 @@ I am a mixed methods researcher and my research interests are broad and include 
 
 Prior to Google, I earned a PhD from the department of Human Centered Design and Engineering in the University of Washington, where I explored how time could be leveraged as a base of a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in Communication and a BA in English Language and Literature both from Seoul National University in Korea. 
 <br><br>
-I use this website to share my past research and to highlight things and thoughts that I currently find interesting. </p><br><br><br> 
+I use this website to share my past research and to highlight things and thoughts that I personally find interesting at the moment. </p><br><br><br> 
 
 
 
