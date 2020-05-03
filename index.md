@@ -6,7 +6,7 @@ I am a mixed methods researcher and my research interests are broad and include 
 
 Prior to Google, I earned a PhD from the department of Human Centered Design and Engineering in the University of Washington, where I explored how time could be leveraged as a base of a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in Communication and a BA in English Language and Literature both from Seoul National University in Korea. 
 <br><br>
-I use this website to share my past research and to highlight trends and things related to broad human-computer interaction that I find interesting. </p><br><br><br>
+I use this website to share my past research and to highlight things related to human-computer interaction that I currently find interesting. </p><br><br><br>
 
 
 
@@ -62,5 +62,5 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 
 
 ---
-<p style="font-size:11px;color:RGB(224,224,224)">Page template forked from <a stype="color::RGB(224,224,224)";href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px;color:RGB(224,224,224)">Page template forked from <a style="color::RGB(224,224,224)";href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
