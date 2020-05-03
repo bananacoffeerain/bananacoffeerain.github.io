@@ -4,6 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   UX & HCI Researcher | Social Scientist 
   <br>Currently @ Google<br><br>
-  <p stype "color:rgb(255, 123, 0)><a href="https://www.linkedin.com/in/miasuh/"> LinkedIn </a> | <a href="https://www.linkedin.com/in/example/"> MyCV </a> </p>
+  <p stype "color:rgb(255, 123, 0)><a href="https://www.linkedin.com/in/miasuh/"> LinkedIn </a> | <a href="https://www.miasuh.info/"> MyCV </a> </p>
 
 theme: jekyll-theme-minimal
