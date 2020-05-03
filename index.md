@@ -27,19 +27,19 @@ Shih-Wen Huang,<b> Minhyang (Mia) Suh</b>, Benjamin Mako Hill, & Gary Hsieh (201
 
 ###  Nurturing Collaboration and Human-Connection  
 
-Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha Sien, Janet Ng, Mark Zachry, and Juho Kim. 2019. Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying Collaborative Dynamic Queries. In Proceedings of the ACM Conference Companion on Computer Supported Cooperative Work & Social Computing (PACMHCI), 2 (CSCW), 106, 24.
+Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha Sien, Janet Ng, Mark Zachry, and Juho Kim (2019). Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying Collaborative Dynamic Queries, CSCW 2019, 106, 24. <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "rgb(255, 123, 0)">[PDF]</font></a>
 
 
-<b>Minhyang (Mia) Suh </b>& Frank Bentley, Danielle Lottridge (2018). “It’s Kind of Boring Looking at Just the Face”: How Teens Multitask During Mobile Videochat, CSCW 2018 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#02ae93">[PDF]</font></a>
+<b>Minhyang (Mia) Suh </b>& Frank Bentley, Danielle Lottridge (2018). “It’s Kind of Boring Looking at Just the Face”: How Teens Multitask During Mobile Videochat, CSCW 2018 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "rgb(255, 123, 0)">[PDF]</font></a>
 
 
-Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Lee, Juho Kim, & Mark Zachry. (2018). Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making, CHI 2018<a href="http://students.washington.edu/miasuh/attachment/chi2018.pdf"><font color = "#02ae93">[PDF]</font></a> <br><br>
+Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Lee, Juho Kim, & Mark Zachry. (2018). Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making, CHI 2018<a href="http://students.washington.edu/miasuh/attachment/chi2018.pdf"><font color = "rgb(255, 123, 0)">[PDF]</font></a> <br><br>
 
 
 ---
 ### Making Information More Accessible and Useful 
 
-<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018<a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#02ae93">[PDF]</font></a><br><br>
+<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018<a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "rgb(255, 123, 0)"> [PDF]</font></a><br><br>
 
 
 
