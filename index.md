@@ -1,4 +1,15 @@
-<p> I am blah </p><br><br>
+<p>   
+<br><br><br>
+I am a User Experience (UX) Researcher at Google. I explore how consumers perceive Ads and how to make Ads experience better. <br><br>
+
+My research interests are broad and include : human-computer interaction, computer-mediated-communication, social computing, trust, engagement, literacy and accessibility.<br><br> 
+
+Prior to Google, I earned a PhD from the department of Human Centered Design and Engineering in the University of Washington, where I explored how people change their motivation by time and examined how time could be a base of a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in Communication and a BA in English Language and Literature both from Seoul National University in Korea. 
+<br><br>
+I use this website to share my past research and to highlight trends and things related to broad human-computer interaction that I find interesting. </p><br><br>
+
+
+
 
 ---
 
