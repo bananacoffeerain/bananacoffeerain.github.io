@@ -45,10 +45,10 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 
 ---
 ## Me, Now 
-- <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [Reading]</font></a>
-- [Food blogging](http://example.com/)
-- [Traveling](http://example.com/)
-
+- <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> Reading </font></a>
+- <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> Food blogging </font></a>
+- <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> Traveling </font></a>
+ 
 <br><br>
 
 
