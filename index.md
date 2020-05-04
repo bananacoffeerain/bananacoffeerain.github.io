@@ -18,30 +18,28 @@ I use this website to share my past research and to highlight things and thought
 ---
 
 ### Tailoring Design to Increase User Engagement
-<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2016). Designing for Future Behaviors: The Effect of Temporal Distance on Planned Behaviors, CHI 2016 <a href="http://students.washington.edu/miasuh/attachment/chi2016.pdf"><font color = "#ff7b00">[PDF]</font></a><br>
+- <b>Minhyang (Mia) Suh </b>& Gary Hsieh (2016). Designing for Future Behaviors: The Effect of Temporal Distance on Planned Behaviors, CHI 2016 <a href="http://students.washington.edu/miasuh/attachment/chi2016.pdf"><font color = "#ff7b00">[PDF]</font></a><br>
 
-Shih-Wen Huang,<b> Minhyang (Mia) Suh</b>, Benjamin Mako Hill, & Gary Hsieh (2015). How Activists are Both Born and Made: An Analysis of Users on Change.org, CHI 2015 <a href="http://students.washington.edu/miasuh/attachment/chi2015.pdf"><font color = "#ff7b00">[PDF]</font></a><br><br>
+- Shih-Wen Huang,<b> Minhyang (Mia) Suh</b>, Benjamin Mako Hill, & Gary Hsieh (2015). How Activists are Both Born and Made: An Analysis of Users on Change.org, CHI 2015 <a href="http://students.washington.edu/miasuh/attachment/chi2015.pdf"><font color = "#ff7b00">[PDF]</font></a><br><br>
 
 
 ---
 
 ###  Nurturing Collaboration and Social Connection     
 
-Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha Sien, Janet Ng, Mark Zachry, and Juho Kim (2019). Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying Collaborative Dynamic Queries, CSCW 2019 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
-
-[PDF]()
+- Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha Sien, Janet Ng, Mark Zachry, and Juho Kim (2019). Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying Collaborative Dynamic Queries, CSCW 2019 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
 
 
-<b>Minhyang (Mia) Suh </b>& Frank Bentley, Danielle Lottridge (2018). “It’s Kind of Boring Looking at Just the Face”: How Teens Multitask During Mobile Videochat, CSCW 2018 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
+- <b>Minhyang (Mia) Suh </b>& Frank Bentley, Danielle Lottridge (2018). “It’s Kind of Boring Looking at Just the Face”: How Teens Multitask During Mobile Videochat, CSCW 2018 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
 
 
-Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Lee, Juho Kim, & Mark Zachry. (2018). Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making, CHI 2018<a href="http://students.washington.edu/miasuh/attachment/chi2018.pdf"><font color = "#ff7b00">[PDF]</font></a> <br><br>
+- Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Lee, Juho Kim, & Mark Zachry. (2018). Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making, CHI 2018<a href="http://students.washington.edu/miasuh/attachment/chi2018.pdf"><font color = "#ff7b00">[PDF]</font></a> <br><br>
 
 
 ---
 ### Making Information More Accessible and Useful 
 
-<b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018 <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [PDF]</font></a><br><br>
+- <b>Minhyang (Mia) Suh </b>& Gary Hsieh (2018). "The “Had Mores”: Exploring Korean Immigrants’ Information Behavior and ICTs Usage when Settling in the United States", JASIST 2018 <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [PDF]</font></a><br><br>
 
 
 
