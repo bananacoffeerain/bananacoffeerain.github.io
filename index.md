@@ -2,9 +2,9 @@
 <br><br><br>
 I am a User Experience (UX) Researcher at Google. I explore how consumers perceive ads and how to make their experience better. <br><br>
 
-I am a mixed methods researcher and my research interests are broad and include : human-computer interaction, computer-mediated-communication, social computing, trust, engagement, literacy and accessibility.<br><br> 
+I am a mixed methods researcher and my research interests are broad and include : human-computer interaction, computer-mediated-communication, social computing, trust, engagement, literacy, and accessibility.<br><br> 
 
-Prior to Google, I earned a PhD from the department of Human Centered Design and Engineering in the University of Washington, where I explored how time could be leveraged as a base of a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in Communication and a BA in English Language and Literature both from Seoul National University in Korea. 
+Prior to Google, I earned my PhD from the department of Human Centered Design and Engineering at the University of Washington, where I explored how time could be leveraged as a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in Communication and a BA in English Language and Literature both from Seoul National University in Korea. 
 <br><br>
 I use this website to share my past research and to highlight things and thoughts that I personally find interesting at the moment. </p><br><br><br> 
 
@@ -29,6 +29,8 @@ Shih-Wen Huang,<b> Minhyang (Mia) Suh</b>, Benjamin Mako Hill, & Gary Hsieh (201
 
 Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha Sien, Janet Ng, Mark Zachry, and Juho Kim (2019). Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying Collaborative Dynamic Queries, CSCW 2019 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
 
+[PDF]()
+
 
 <b>Minhyang (Mia) Suh </b>& Frank Bentley, Danielle Lottridge (2018). “It’s Kind of Boring Looking at Just the Face”: How Teens Multitask During Mobile Videochat, CSCW 2018 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
 
@@ -45,7 +47,7 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 
 ---
 ## Me, Now 
-- [Reading](http://example.com/)
+- <font color = "#ff7b00">[Reading]</font>(http://naver.com/)
 - [Food blogging](http://example.com/)
 - [Traveling](http://example.com/)
 
