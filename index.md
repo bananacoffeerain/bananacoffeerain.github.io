@@ -45,7 +45,7 @@ I use this website to share my past research and to highlight things and thought
 
 ---
 ## Me, Now 
-- <font color = "#ff7b00">[Reading]</font>(http://naver.com/)
+- <font color = "#ff7b00">[Reading](http://naver.com/)</a>
 - [Food blogging](http://example.com/)
 - [Traveling](http://example.com/)
 
