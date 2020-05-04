@@ -45,7 +45,7 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Le
 
 ---
 ## Me, Now 
-- <font color = "#ff7b00">[Reading](http://naver.com/)</a>
+- <a href="http://students.washington.edu/miasuh/attachment/Korean.pdf"><font color = "#ff7b00"> [Reading]</font></a>
 - [Food blogging](http://example.com/)
 - [Traveling](http://example.com/)
 
