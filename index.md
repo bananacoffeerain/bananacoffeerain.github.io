@@ -33,7 +33,7 @@ Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha
 <b>Minhyang (Mia) Suh </b>& Frank Bentley, Danielle Lottridge (2018). “It’s Kind of Boring Looking at Just the Face”: How Teens Multitask During Mobile Videochat, CSCW 2018 <a href="http://students.washington.edu/miasuh/attachment/Teens_CSCW2018.pdf"><font color = "#ff7b00">[PDF]</font></a>
 
 
-Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Lee, Juho Kim, & Mark Zachry. (2018). Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making, CHI 2018<a href="http://students.washington.edu/miasuh/attachment/chi2018.pdf"><font color = "#ff7b00">[PDF]</font></a> <br><br>
+Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Nathalie Henry Riche, Jooyoung Lee, Juho Kim, & Mark Zachry. (2018). Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making, CHI 2018<a href="http://students.washington.edu/miasuh/attachment/chi2018.pdf"><font color = "#ff7b00"> [PDF]</font></a> <br><br>
 
 
 ---
