@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   UX Researcher | HCI Researcher
   <br>Currently @ Google<br><br>
-  <a href="https://www.linkedin.com/in/miasuh/"> LinkedIn </a> | 
-  <a href="https://docs.google.com/document/d/1bpaYhbCZBg_8QWQvredhdqmTZXK1BsoJ7VPZUxryEkI/edit?usp=sharing"> MyCV </a>
+  <a href="https://www.linkedin.com/in/miasuh/"> <font color = "#ff7b00"> LinkedIn </font></a> | 
+  <a href="https://docs.google.com/document/d/1bpaYhbCZBg_8QWQvredhdqmTZXK1BsoJ7VPZUxryEkI/edit?usp=sharing"> <font color = "#ff7b00"> MyCV </font> </a>
 
 theme: jekyll-theme-minimal
