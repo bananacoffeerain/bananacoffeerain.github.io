@@ -4,7 +4,7 @@ I am a User Experience (UX) Researcher at Google. I explore how consumers percei
 
 I am a mixed methods researcher and my research interests are broad and include : human-computer interaction, computer-mediated-communication, social computing, trust, engagement, literacy, and accessibility.<br><br> 
 
-Prior to Google, I earned my PhD from the department of Human Centered Design and Engineering at the University of Washington, where I explored how time could be leveraged as a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in Communication and a BA in English Language and Literature both from Seoul National University in Korea. 
+Prior to Google, I earned my PhD from the department of <a href="https://www.hcde.washington.edu/"><font color = "#ff7b00">Human Centered Design and Engineering</font></a> at the University of Washington, where I explored how time could be leveraged as a tailoring strategy for technology design. During my PhD program, I completed internships with HP, Yahoo and Google. I hold a MA in <a href="http://communication.snu.ac.kr/?lang=en"><font color = "#ff7b00">Communication</font></a> and a BA in a href="http://eenglish.snu.ac.kr/index_eng.htm"><font color = "#ff7b00">English Language and Literature </font></a>both from Seoul National University in Korea. 
 <br><br>
 I use this website to share my past research and to highlight things and thoughts that I personally find interesting at the moment. </p><br><br><br> 
 
