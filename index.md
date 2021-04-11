@@ -30,7 +30,7 @@ https://bananacoffeerain.github.io/pdf/chi2015.pdf"><font color = "#ff7b00">[PDF
 ###  Nurturing Collaboration and Social Connection     
 
 <b>Minhyang (Mia) Suh</b> Emily Youngblom, Michael Terry, and Carrie J. Cai. 2021. AI as Social Glue: Uncovering the Roles of Deep Generative AI during Social Music Composition. In CHI Conference on Human Factors in Computing
-Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, 11 pages.  <b> Honorable Mention (Top 5%)</b>  
+Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, 11 pages.  <font color = "#009966"><b> Honorable Mention (Top 5%)</b></font>  
 
 
 Sungsoo (Ray) Hong, <b>Minhyang (Mia) Suh</b>, Tae Soo Kim, Irina Smoke, Sangwha Sien, Janet Ng, Mark Zachry, and Juho Kim (2019). Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying Collaborative Dynamic Queries, CSCW 2019 <a href="https://bananacoffeerain.github.io/pdf/cscw2019.pdf"><font color = "#ff7b00">[PDF]</font></a>
